@@ -1,0 +1,27 @@
+body {
+    background-color: #FFEDDB;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #E3B7A0;
+    width: 5%;
+}
+
+h1, h3{
+    color: #BF9270;
+}
+
+.profile {
+    height: 200px;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+td{
+    padding: 5px 10px;
+    padding-left: 0;
+}
